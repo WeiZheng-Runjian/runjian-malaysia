@@ -1,0 +1,690 @@
+{
+  "method": "Lossless WebP, exact RGBA pixels",
+  "savedBytes": 39429213,
+  "files": [
+    {
+      "old": "assets/8f6450e274cdfd9b.png",
+      "new": "assets/8f6450e274cdfd9b.webp",
+      "before": 1412117,
+      "after": 791484
+    },
+    {
+      "old": "assets/bb76641ab1be096b.png",
+      "new": "assets/bb76641ab1be096b.webp",
+      "before": 1160050,
+      "after": 747740
+    },
+    {
+      "old": "assets/010643c88c0134dd.png",
+      "new": "assets/010643c88c0134dd.webp",
+      "before": 209109,
+      "after": 140976
+    },
+    {
+      "old": "assets/9cee5df7fa2fed01.png",
+      "new": "assets/9cee5df7fa2fed01.webp",
+      "before": 230550,
+      "after": 182628
+    },
+    {
+      "old": "assets/0ff2001f31d76b40.png",
+      "new": "assets/0ff2001f31d76b40.webp",
+      "before": 429129,
+      "after": 268616
+    },
+    {
+      "old": "assets/7d9ce7c86e882129.png",
+      "new": "assets/7d9ce7c86e882129.webp",
+      "before": 438212,
+      "after": 311332
+    },
+    {
+      "old": "assets/84487bb20b3fea89.png",
+      "new": "assets/84487bb20b3fea89.webp",
+      "before": 924387,
+      "after": 578960
+    },
+    {
+      "old": "assets/24aeebaf21e62102.png",
+      "new": "assets/24aeebaf21e62102.webp",
+      "before": 844339,
+      "after": 586740
+    },
+    {
+      "old": "assets/1ab3562b38be5fbe.png",
+      "new": "assets/1ab3562b38be5fbe.webp",
+      "before": 222901,
+      "after": 156926
+    },
+    {
+      "old": "assets/5dc388904ad2508f.png",
+      "new": "assets/5dc388904ad2508f.webp",
+      "before": 2343317,
+      "after": 1670264
+    },
+    {
+      "old": "assets/ae28004f15081fa8.png",
+      "new": "assets/ae28004f15081fa8.webp",
+      "before": 475183,
+      "after": 311788
+    },
+    {
+      "old": "assets/9790dda5beb40b96.png",
+      "new": "assets/9790dda5beb40b96.webp",
+      "before": 550427,
+      "after": 370450
+    },
+    {
+      "old": "assets/83b18a2929ce6600.png",
+      "new": "assets/83b18a2929ce6600.webp",
+      "before": 377819,
+      "after": 293916
+    },
+    {
+      "old": "assets/6e9424a23fb01ce8.png",
+      "new": "assets/6e9424a23fb01ce8.webp",
+      "before": 308130,
+      "after": 162102
+    },
+    {
+      "old": "assets/8b18069817eddf72.png",
+      "new": "assets/8b18069817eddf72.webp",
+      "before": 1145991,
+      "after": 763044
+    },
+    {
+      "old": "assets/953f4329ab83c102.png",
+      "new": "assets/953f4329ab83c102.webp",
+      "before": 1024216,
+      "after": 630768
+    },
+    {
+      "old": "assets/46b89a7ac5f852d0.png",
+      "new": "assets/46b89a7ac5f852d0.webp",
+      "before": 319978,
+      "after": 156148
+    },
+    {
+      "old": "assets/60acac65ce5460b0.png",
+      "new": "assets/60acac65ce5460b0.webp",
+      "before": 503027,
+      "after": 311342
+    },
+    {
+      "old": "assets/086ae2cc58990502.png",
+      "new": "assets/086ae2cc58990502.webp",
+      "before": 1231087,
+      "after": 748782
+    },
+    {
+      "old": "assets/446280a858ce82b4.png",
+      "new": "assets/446280a858ce82b4.webp",
+      "before": 968372,
+      "after": 616518
+    },
+    {
+      "old": "assets/68412fd9fe517672.png",
+      "new": "assets/68412fd9fe517672.webp",
+      "before": 247240,
+      "after": 169210
+    },
+    {
+      "old": "assets/98edcbab7e1ff7bb.png",
+      "new": "assets/98edcbab7e1ff7bb.webp",
+      "before": 402012,
+      "after": 282236
+    },
+    {
+      "old": "assets/af390291702136c8.png",
+      "new": "assets/af390291702136c8.webp",
+      "before": 507280,
+      "after": 352232
+    },
+    {
+      "old": "assets/d150628515c36286.png",
+      "new": "assets/d150628515c36286.webp",
+      "before": 1369149,
+      "after": 630356
+    },
+    {
+      "old": "assets/e1f10cb842e19abf.png",
+      "new": "assets/e1f10cb842e19abf.webp",
+      "before": 1499323,
+      "after": 941674
+    },
+    {
+      "old": "assets/d5cd062acffbfbd1.png",
+      "new": "assets/d5cd062acffbfbd1.webp",
+      "before": 361883,
+      "after": 226682
+    },
+    {
+      "old": "assets/78b312872f6e8429.png",
+      "new": "assets/78b312872f6e8429.webp",
+      "before": 1177392,
+      "after": 801190
+    },
+    {
+      "old": "assets/afa354149763e408.png",
+      "new": "assets/afa354149763e408.webp",
+      "before": 1683468,
+      "after": 1121852
+    },
+    {
+      "old": "assets/e57a81b979999d6e.png",
+      "new": "assets/e57a81b979999d6e.webp",
+      "before": 356915,
+      "after": 227662
+    },
+    {
+      "old": "assets/2c153ed0152549f0.png",
+      "new": "assets/2c153ed0152549f0.webp",
+      "before": 1472247,
+      "after": 945692
+    },
+    {
+      "old": "assets/2fb845f2836f1fe2.png",
+      "new": "assets/2fb845f2836f1fe2.webp",
+      "before": 258169,
+      "after": 185410
+    },
+    {
+      "old": "assets/47d03935000e38b0.png",
+      "new": "assets/47d03935000e38b0.webp",
+      "before": 1238271,
+      "after": 854354
+    },
+    {
+      "old": "assets/cc0a4c80775d285e.png",
+      "new": "assets/cc0a4c80775d285e.webp",
+      "before": 214624,
+      "after": 161068
+    },
+    {
+      "old": "assets/f0cb916cd993a91b.png",
+      "new": "assets/f0cb916cd993a91b.webp",
+      "before": 233810,
+      "after": 152416
+    },
+    {
+      "old": "assets/6c0871953fb09761.png",
+      "new": "assets/6c0871953fb09761.webp",
+      "before": 294992,
+      "after": 193524
+    },
+    {
+      "old": "assets/1cb446cb8fc51063.png",
+      "new": "assets/1cb446cb8fc51063.webp",
+      "before": 3562509,
+      "after": 2555720
+    },
+    {
+      "old": "assets/8a9aab012d663913.png",
+      "new": "assets/8a9aab012d663913.webp",
+      "before": 249039,
+      "after": 187178
+    },
+    {
+      "old": "assets/0486e2469b3c7958.png",
+      "new": "assets/0486e2469b3c7958.webp",
+      "before": 2400921,
+      "after": 1214328
+    },
+    {
+      "old": "assets/d77d675ce302fb20.png",
+      "new": "assets/d77d675ce302fb20.webp",
+      "before": 2723363,
+      "after": 1203436
+    },
+    {
+      "old": "assets/b9d5fcf219f4f0e1.png",
+      "new": "assets/b9d5fcf219f4f0e1.webp",
+      "before": 221225,
+      "after": 122482
+    },
+    {
+      "old": "assets/7c183a22e4246aae.png",
+      "new": "assets/7c183a22e4246aae.webp",
+      "before": 1085072,
+      "after": 735910
+    },
+    {
+      "old": "assets/b28da60d757dbe9c.png",
+      "new": "assets/b28da60d757dbe9c.webp",
+      "before": 324531,
+      "after": 218056
+    },
+    {
+      "old": "assets/31ed03f3a067c588.png",
+      "new": "assets/31ed03f3a067c588.webp",
+      "before": 377495,
+      "after": 262974
+    },
+    {
+      "old": "assets/0daddba429bc6362.png",
+      "new": "assets/0daddba429bc6362.webp",
+      "before": 1557303,
+      "after": 749238
+    },
+    {
+      "old": "assets/68feeda6e1638f11.png",
+      "new": "assets/68feeda6e1638f11.webp",
+      "before": 1342250,
+      "after": 934026
+    },
+    {
+      "old": "assets/150563d065578edf.png",
+      "new": "assets/150563d065578edf.webp",
+      "before": 771906,
+      "after": 536144
+    },
+    {
+      "old": "assets/8802dedc8de8ee2b.png",
+      "new": "assets/8802dedc8de8ee2b.webp",
+      "before": 316569,
+      "after": 214138
+    },
+    {
+      "old": "assets/1e0c27367bd962ec.png",
+      "new": "assets/1e0c27367bd962ec.webp",
+      "before": 788005,
+      "after": 524524
+    },
+    {
+      "old": "assets/12e79b4e5bac66da.png",
+      "new": "assets/12e79b4e5bac66da.webp",
+      "before": 868136,
+      "after": 624822
+    },
+    {
+      "old": "assets/6a08b0061d9ac6d6.png",
+      "new": "assets/6a08b0061d9ac6d6.webp",
+      "before": 233744,
+      "after": 158292
+    },
+    {
+      "old": "assets/c45c3cb3307571db.png",
+      "new": "assets/c45c3cb3307571db.webp",
+      "before": 568219,
+      "after": 333976
+    },
+    {
+      "old": "assets/8cc8aae98b473e53.png",
+      "new": "assets/8cc8aae98b473e53.webp",
+      "before": 279025,
+      "after": 180838
+    },
+    {
+      "old": "assets/3fe757b043d7ed85.png",
+      "new": "assets/3fe757b043d7ed85.webp",
+      "before": 3338290,
+      "after": 2558364
+    },
+    {
+      "old": "assets/5294e60315564df2.png",
+      "new": "assets/5294e60315564df2.webp",
+      "before": 380053,
+      "after": 368356
+    },
+    {
+      "old": "assets/ca080b8c511468e5.png",
+      "new": "assets/ca080b8c511468e5.webp",
+      "before": 1299970,
+      "after": 568102
+    },
+    {
+      "old": "assets/abec64e5891c8e35.png",
+      "new": "assets/abec64e5891c8e35.webp",
+      "before": 804872,
+      "after": 552698
+    },
+    {
+      "old": "assets/6a9da47cc165a01c.png",
+      "new": "assets/6a9da47cc165a01c.webp",
+      "before": 578872,
+      "after": 398098
+    },
+    {
+      "old": "assets/d6110a934dc66448.png",
+      "new": "assets/d6110a934dc66448.webp",
+      "before": 1010759,
+      "after": 665720
+    },
+    {
+      "old": "assets/ea03eb953f422786.png",
+      "new": "assets/ea03eb953f422786.webp",
+      "before": 1942666,
+      "after": 1488240
+    },
+    {
+      "old": "assets/f876dd3cf97780cc.png",
+      "new": "assets/f876dd3cf97780cc.webp",
+      "before": 327270,
+      "after": 195864
+    },
+    {
+      "old": "assets/3d2303c359df4ba9.png",
+      "new": "assets/3d2303c359df4ba9.webp",
+      "before": 559363,
+      "after": 392326
+    },
+    {
+      "old": "assets/c17ce0c4bfc06338.png",
+      "new": "assets/c17ce0c4bfc06338.webp",
+      "before": 327814,
+      "after": 234002
+    },
+    {
+      "old": "assets/cd2d3f3c9531affa.png",
+      "new": "assets/cd2d3f3c9531affa.webp",
+      "before": 4285583,
+      "after": 2765580
+    },
+    {
+      "old": "assets/07fdf067e8fc2a07.png",
+      "new": "assets/07fdf067e8fc2a07.webp",
+      "before": 1628552,
+      "after": 1012498
+    },
+    {
+      "old": "assets/0990d122c9a519b1.png",
+      "new": "assets/0990d122c9a519b1.webp",
+      "before": 826316,
+      "after": 534232
+    },
+    {
+      "old": "assets/aa897c45dce448c0.png",
+      "new": "assets/aa897c45dce448c0.webp",
+      "before": 1083309,
+      "after": 691770
+    },
+    {
+      "old": "assets/73bcce846c39a1ab.png",
+      "new": "assets/73bcce846c39a1ab.webp",
+      "before": 722768,
+      "after": 491446
+    },
+    {
+      "old": "assets/8afb7b2eca2e3a34.png",
+      "new": "assets/8afb7b2eca2e3a34.webp",
+      "before": 1363470,
+      "after": 1027306
+    },
+    {
+      "old": "assets/6b5bcd764ff0d967.png",
+      "new": "assets/6b5bcd764ff0d967.webp",
+      "before": 1005420,
+      "after": 718366
+    },
+    {
+      "old": "assets/8ccdf80bf5c8f8f9.png",
+      "new": "assets/8ccdf80bf5c8f8f9.webp",
+      "before": 1088975,
+      "after": 756844
+    },
+    {
+      "old": "assets/8f4e5685c1e9bf98.png",
+      "new": "assets/8f4e5685c1e9bf98.webp",
+      "before": 228585,
+      "after": 170254
+    },
+    {
+      "old": "assets/044ad9c640cbeb63.png",
+      "new": "assets/044ad9c640cbeb63.webp",
+      "before": 290262,
+      "after": 176314
+    },
+    {
+      "old": "assets/925667551cfa32c9.png",
+      "new": "assets/925667551cfa32c9.webp",
+      "before": 398211,
+      "after": 256194
+    },
+    {
+      "old": "assets/edbeab648521c0df.png",
+      "new": "assets/edbeab648521c0df.webp",
+      "before": 256487,
+      "after": 180852
+    },
+    {
+      "old": "assets/1166beba50817770.png",
+      "new": "assets/1166beba50817770.webp",
+      "before": 584518,
+      "after": 360426
+    },
+    {
+      "old": "assets/0b0e3a5b9f0fcc75.png",
+      "new": "assets/0b0e3a5b9f0fcc75.webp",
+      "before": 272365,
+      "after": 142548
+    },
+    {
+      "old": "assets/0232f9458cdf97cc.png",
+      "new": "assets/0232f9458cdf97cc.webp",
+      "before": 246073,
+      "after": 173554
+    },
+    {
+      "old": "assets/d0e7a4f8635c43a1.png",
+      "new": "assets/d0e7a4f8635c43a1.webp",
+      "before": 704670,
+      "after": 436536
+    },
+    {
+      "old": "assets/c283dac4be125f77.png",
+      "new": "assets/c283dac4be125f77.webp",
+      "before": 288316,
+      "after": 190846
+    },
+    {
+      "old": "assets/f02d36a17eeab999.png",
+      "new": "assets/f02d36a17eeab999.webp",
+      "before": 2264898,
+      "after": 1681180
+    },
+    {
+      "old": "assets/e24a45ca68b4721a.png",
+      "new": "assets/e24a45ca68b4721a.webp",
+      "before": 1079577,
+      "after": 688906
+    },
+    {
+      "old": "assets/c1e696a9a28b6898.png",
+      "new": "assets/c1e696a9a28b6898.webp",
+      "before": 1184874,
+      "after": 643670
+    },
+    {
+      "old": "assets/cbd3baea8d50e9fb.png",
+      "new": "assets/cbd3baea8d50e9fb.webp",
+      "before": 970521,
+      "after": 678910
+    },
+    {
+      "old": "assets/5ef20229bdb41922.png",
+      "new": "assets/5ef20229bdb41922.webp",
+      "before": 4717802,
+      "after": 3114416
+    },
+    {
+      "old": "assets/83c32f37571ef5fe.png",
+      "new": "assets/83c32f37571ef5fe.webp",
+      "before": 479096,
+      "after": 335674
+    },
+    {
+      "old": "assets/a071769cbab616e1.png",
+      "new": "assets/a071769cbab616e1.webp",
+      "before": 334006,
+      "after": 207174
+    },
+    {
+      "old": "assets/15be39ccc9c662d0.png",
+      "new": "assets/15be39ccc9c662d0.webp",
+      "before": 1499323,
+      "after": 941674
+    },
+    {
+      "old": "assets/251e0cd9c8b51f4a.png",
+      "new": "assets/251e0cd9c8b51f4a.webp",
+      "before": 1159539,
+      "after": 841428
+    },
+    {
+      "old": "assets/6f60c2827a12fc09.png",
+      "new": "assets/6f60c2827a12fc09.webp",
+      "before": 653483,
+      "after": 448680
+    },
+    {
+      "old": "assets/2e4928a6dc8b82c4.png",
+      "new": "assets/2e4928a6dc8b82c4.webp",
+      "before": 964402,
+      "after": 591668
+    },
+    {
+      "old": "assets/dd426f2438fbf39d.png",
+      "new": "assets/dd426f2438fbf39d.webp",
+      "before": 230550,
+      "after": 182628
+    },
+    {
+      "old": "assets/987f04a3ce208e86.png",
+      "new": "assets/987f04a3ce208e86.webp",
+      "before": 869022,
+      "after": 653722
+    },
+    {
+      "old": "assets/57ef39659664c152.png",
+      "new": "assets/57ef39659664c152.webp",
+      "before": 557892,
+      "after": 370980
+    },
+    {
+      "old": "assets/c90805500d792231.png",
+      "new": "assets/c90805500d792231.webp",
+      "before": 329918,
+      "after": 231368
+    },
+    {
+      "old": "assets/901a4f3347ff3290.png",
+      "new": "assets/901a4f3347ff3290.webp",
+      "before": 1042308,
+      "after": 599440
+    },
+    {
+      "old": "assets/6b7a5663e13a0de7.png",
+      "new": "assets/6b7a5663e13a0de7.webp",
+      "before": 1594792,
+      "after": 916412
+    },
+    {
+      "old": "assets/aba54cb3222865c3.png",
+      "new": "assets/aba54cb3222865c3.webp",
+      "before": 535496,
+      "after": 306536
+    },
+    {
+      "old": "assets/fdd5027420fe9ed8.png",
+      "new": "assets/fdd5027420fe9ed8.webp",
+      "before": 1458847,
+      "after": 1056314
+    },
+    {
+      "old": "assets/8571b205ca2c5ad9.png",
+      "new": "assets/8571b205ca2c5ad9.webp",
+      "before": 2613927,
+      "after": 2032690
+    },
+    {
+      "old": "assets/e5a512fdec2d0a46.png",
+      "new": "assets/e5a512fdec2d0a46.webp",
+      "before": 350121,
+      "after": 217088
+    },
+    {
+      "old": "assets/b23fd9be94b76f2d.png",
+      "new": "assets/b23fd9be94b76f2d.webp",
+      "before": 817845,
+      "after": 575630
+    },
+    {
+      "old": "assets/c3d458e70026ec6c.png",
+      "new": "assets/c3d458e70026ec6c.webp",
+      "before": 1032092,
+      "after": 669712
+    },
+    {
+      "old": "assets/33148d2add96417b.png",
+      "new": "assets/33148d2add96417b.webp",
+      "before": 220087,
+      "after": 143748
+    },
+    {
+      "old": "assets/f173d3684b75e151.png",
+      "new": "assets/f173d3684b75e151.webp",
+      "before": 1156091,
+      "after": 707794
+    },
+    {
+      "old": "assets/eb58273967bb094f.png",
+      "new": "assets/eb58273967bb094f.webp",
+      "before": 221602,
+      "after": 149260
+    },
+    {
+      "old": "assets/713549137d99df39.png",
+      "new": "assets/713549137d99df39.webp",
+      "before": 237289,
+      "after": 181456
+    },
+    {
+      "old": "assets/2dde0ca1da371dcc.png",
+      "new": "assets/2dde0ca1da371dcc.webp",
+      "before": 337361,
+      "after": 267666
+    },
+    {
+      "old": "assets/579266f09c925208.png",
+      "new": "assets/579266f09c925208.webp",
+      "before": 3310480,
+      "after": 2307698
+    },
+    {
+      "old": "assets/b44b69a168d40bb7.png",
+      "new": "assets/b44b69a168d40bb7.webp",
+      "before": 1052462,
+      "after": 723508
+    },
+    {
+      "old": "assets/019fc233feb461c2.png",
+      "new": "assets/019fc233feb461c2.webp",
+      "before": 3728424,
+      "after": 1615454
+    },
+    {
+      "old": "assets/2bf035eecbf7a45c.png",
+      "new": "assets/2bf035eecbf7a45c.webp",
+      "before": 1453807,
+      "after": 666890
+    },
+    {
+      "old": "assets/77d7c886727243f2.png",
+      "new": "assets/77d7c886727243f2.webp",
+      "before": 1686511,
+      "after": 1035676
+    },
+    {
+      "old": "assets/77a2cdc41c9ef90d.png",
+      "new": "assets/77a2cdc41c9ef90d.webp",
+      "before": 250186,
+      "after": 169460
+    },
+    {
+      "old": "assets/bcb81a5a1cb3db94.png",
+      "new": "assets/bcb81a5a1cb3db94.webp",
+      "before": 1021533,
+      "after": 671178
+    }
+  ]
+}

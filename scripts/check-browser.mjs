@@ -1,0 +1,10 @@
+import { chromium } from '@playwright/test';
+import { writeFileSync } from 'node:fs';
+const browser = await chromium.launch({headless: true, executablePath: process.env.HOME + '/Library/Caches/ms-playwright/chromium-1237/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing'});
+const page=await browser.newPage({viewport:{width:1440,height:1000}});
+const errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto('http://127.0.0.1:5173/');
+await page.waitForTimeout(3000);
+await page.screenshot({path:'/tmp/runjian-local.png'});
+console.log(JSON.stringify({errors,ready:await page.evaluate(()=>window.runjianReady),images:await page.evaluate(()=>[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src)),title:await page.title()},null,2));
+await browser.close();
