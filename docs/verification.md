@@ -20,3 +20,9 @@ Third-party websites, WeChat articles and external careers systems remain extern
 Search uses a local static index. Enquiries validate locally and do not submit to Runjian’s original CMS. Configure an approved email in `src/site-config.js` to open the visitor’s mail app. No backend submission or CMS editing is included.
 
 Shared legacy scripts were adapted to current Swiper, guarded against absent sliders/map containers, and loaded without the original CMS, tracking scripts or API calls. Malformed source links and encoded category URL filenames were corrected for static hosting.
+
+## Published preview
+
+https://weizheng-runjian.github.io/runjian-malaysia/
+
+GitHub Pages serves the `gh-pages` deployment commit `fe44e8c7cd5e18cfc5f28cef47315965cff96262`. The live homepage returned HTTP 200, and all five Playwright interaction tests passed against the public URL on 15 October 2026.

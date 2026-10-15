@@ -1,5 +1,7 @@
 # Runjian Malaysia
 
+Public preview: https://weizheng-runjian.github.io/runjian-malaysia/
+
 A Vite multi-page reproduction of the public English Runjian website, prepared for GitHub Pages. The source layouts and visual assets are preserved; Malaysia contact details are configured in `src/site-config.js`.
 
 ## Run locally
